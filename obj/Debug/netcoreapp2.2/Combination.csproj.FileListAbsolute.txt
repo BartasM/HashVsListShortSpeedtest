@@ -1,0 +1,11 @@
+C:\Users\Ven\source\repos\Combination\bin\Debug\netcoreapp2.2\Combination.deps.json
+C:\Users\Ven\source\repos\Combination\bin\Debug\netcoreapp2.2\Combination.runtimeconfig.json
+C:\Users\Ven\source\repos\Combination\bin\Debug\netcoreapp2.2\Combination.runtimeconfig.dev.json
+C:\Users\Ven\source\repos\Combination\bin\Debug\netcoreapp2.2\Combination.dll
+C:\Users\Ven\source\repos\Combination\bin\Debug\netcoreapp2.2\Combination.pdb
+C:\Users\Ven\source\repos\Combination\obj\Debug\netcoreapp2.2\Combination.csprojAssemblyReference.cache
+C:\Users\Ven\source\repos\Combination\obj\Debug\netcoreapp2.2\Combination.csproj.CoreCompileInputs.cache
+C:\Users\Ven\source\repos\Combination\obj\Debug\netcoreapp2.2\Combination.AssemblyInfoInputs.cache
+C:\Users\Ven\source\repos\Combination\obj\Debug\netcoreapp2.2\Combination.AssemblyInfo.cs
+C:\Users\Ven\source\repos\Combination\obj\Debug\netcoreapp2.2\Combination.dll
+C:\Users\Ven\source\repos\Combination\obj\Debug\netcoreapp2.2\Combination.pdb
